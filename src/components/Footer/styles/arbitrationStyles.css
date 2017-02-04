@@ -1,0 +1,504 @@
+@import url('https://themes.googleusercontent.com/fonts/css?kit=DwAJMKJfUbhq92RNKf-2vQ');
+
+.LegalPage__arbitration .lst-kix_kogupumgjn9v-7 > li {
+  counter-increment: lst-ctn-kix_kogupumgjn9v-7;
+}
+.LegalPage__arbitration .lst-kix_kogupumgjn9v-6 > li {
+  counter-increment: lst-ctn-kix_kogupumgjn9v-6;
+}
+.LegalPage__arbitration .lst-kix_pgxgus9zyvxe-0 > li {
+  counter-increment: lst-ctn-kix_pgxgus9zyvxe-0;
+}
+.LegalPage__arbitration ol.lst-kix_pgxgus9zyvxe-8.start {
+  counter-reset: lst-ctn-kix_pgxgus9zyvxe-8 0;
+}
+.LegalPage__arbitration ol.lst-kix_kogupumgjn9v-8.start {
+  counter-reset: lst-ctn-kix_kogupumgjn9v-8 0;
+}
+.LegalPage__arbitration ol.lst-kix_kogupumgjn9v-5.start {
+  counter-reset: lst-ctn-kix_kogupumgjn9v-5 0;
+}
+.LegalPage__arbitration ol.lst-kix_pgxgus9zyvxe-5.start {
+  counter-reset: lst-ctn-kix_pgxgus9zyvxe-5 0;
+}
+.LegalPage__arbitration ol.lst-kix_pgxgus9zyvxe-0.start {
+  counter-reset: lst-ctn-kix_pgxgus9zyvxe-0 0;
+}
+.LegalPage__arbitration .lst-kix_kogupumgjn9v-8 > li {
+  counter-increment: lst-ctn-kix_kogupumgjn9v-8;
+}
+.LegalPage__arbitration .lst-kix_pgxgus9zyvxe-2 > li {
+  counter-increment: lst-ctn-kix_pgxgus9zyvxe-2;
+}
+.LegalPage__arbitration ol.lst-kix_pgxgus9zyvxe-3.start {
+  counter-reset: lst-ctn-kix_pgxgus9zyvxe-3 0;
+}
+.LegalPage__arbitration .lst-kix_kogupumgjn9v-5 > li {
+  counter-increment: lst-ctn-kix_kogupumgjn9v-5;
+}
+.LegalPage__arbitration ol.lst-kix_kogupumgjn9v-6.start {
+  counter-reset: lst-ctn-kix_kogupumgjn9v-6 0;
+}
+.LegalPage__arbitration .lst-kix_kogupumgjn9v-3 > li {
+  counter-increment: lst-ctn-kix_kogupumgjn9v-3;
+}
+.LegalPage__arbitration .lst-kix_esrgr2ks93q7-5 > li:before {
+  content: "\0025a0  ";
+}
+.LegalPage__arbitration .lst-kix_esrgr2ks93q7-6 > li:before {
+  content: "\0025cf  ";
+}
+.LegalPage__arbitration .lst-kix_esrgr2ks93q7-7 > li:before {
+  content: "\0025cb  ";
+}
+.LegalPage__arbitration .lst-kix_pgxgus9zyvxe-3 > li {
+  counter-increment: lst-ctn-kix_pgxgus9zyvxe-3;
+}
+.LegalPage__arbitration ul.lst-kix_eb6km7g6c5lq-7 {
+  list-style-type: none;
+}
+.LegalPage__arbitration ol.lst-kix_kogupumgjn9v-0.start {
+  counter-reset: lst-ctn-kix_kogupumgjn9v-0 0;
+}
+.LegalPage__arbitration ul.lst-kix_eb6km7g6c5lq-8 {
+  list-style-type: none;
+}
+.LegalPage__arbitration .lst-kix_esrgr2ks93q7-8 > li:before {
+  content: "\0025a0  ";
+}
+.LegalPage__arbitration ul.lst-kix_eb6km7g6c5lq-0 {
+  list-style-type: none;
+}
+.LegalPage__arbitration ul.lst-kix_eb6km7g6c5lq-1 {
+  list-style-type: none;
+}
+.LegalPage__arbitration ul.lst-kix_eb6km7g6c5lq-2 {
+  list-style-type: none;
+}
+.LegalPage__arbitration ul.lst-kix_eb6km7g6c5lq-3 {
+  list-style-type: none;
+}
+.LegalPage__arbitration ul.lst-kix_eb6km7g6c5lq-4 {
+  list-style-type: none;
+}
+.LegalPage__arbitration ul.lst-kix_eb6km7g6c5lq-5 {
+  list-style-type: none;
+}
+.LegalPage__arbitration ul.lst-kix_eb6km7g6c5lq-6 {
+  list-style-type: none;
+}
+.LegalPage__arbitration ol.lst-kix_pgxgus9zyvxe-4.start {
+  counter-reset: lst-ctn-kix_pgxgus9zyvxe-4 0;
+}
+.LegalPage__arbitration .lst-kix_kogupumgjn9v-8 > li:before {
+  content: "" counter(lst-ctn-kix_kogupumgjn9v-8, lower-roman) ". ";
+}
+.LegalPage__arbitration ol.lst-kix_kogupumgjn9v-1.start {
+  counter-reset: lst-ctn-kix_kogupumgjn9v-1 0;
+}
+.LegalPage__arbitration .lst-kix_kogupumgjn9v-5 > li:before {
+  content: "" counter(lst-ctn-kix_kogupumgjn9v-5, lower-roman) ". ";
+}
+.LegalPage__arbitration .lst-kix_kogupumgjn9v-6 > li:before {
+  content: "" counter(lst-ctn-kix_kogupumgjn9v-6, decimal) ". ";
+}
+.LegalPage__arbitration .lst-kix_pgxgus9zyvxe-7 > li {
+  counter-increment: lst-ctn-kix_pgxgus9zyvxe-7;
+}
+.LegalPage__arbitration .lst-kix_kogupumgjn9v-7 > li:before {
+  content: "" counter(lst-ctn-kix_kogupumgjn9v-7, lower-latin) ". ";
+}
+.LegalPage__arbitration .lst-kix_kogupumgjn9v-1 > li {
+  counter-increment: lst-ctn-kix_kogupumgjn9v-1;
+}
+.LegalPage__arbitration .lst-kix_kogupumgjn9v-0 > li {
+  counter-increment: lst-ctn-kix_kogupumgjn9v-0;
+}
+.LegalPage__arbitration .lst-kix_pgxgus9zyvxe-1 > li:before {
+  content: "" counter(lst-ctn-kix_pgxgus9zyvxe-1, lower-latin) ". ";
+}
+.LegalPage__arbitration .lst-kix_pgxgus9zyvxe-2 > li:before {
+  content: "" counter(lst-ctn-kix_pgxgus9zyvxe-2, lower-roman) ". ";
+}
+.LegalPage__arbitration .lst-kix_pgxgus9zyvxe-3 > li:before {
+  content: "" counter(lst-ctn-kix_pgxgus9zyvxe-3, decimal) ". ";
+}
+.LegalPage__arbitration .lst-kix_pgxgus9zyvxe-6 > li {
+  counter-increment: lst-ctn-kix_pgxgus9zyvxe-6;
+}
+.LegalPage__arbitration .lst-kix_pgxgus9zyvxe-4 > li:before {
+  content: "" counter(lst-ctn-kix_pgxgus9zyvxe-4, lower-latin) ". ";
+}
+.LegalPage__arbitration .lst-kix_pgxgus9zyvxe-8 > li {
+  counter-increment: lst-ctn-kix_pgxgus9zyvxe-8;
+}
+.LegalPage__arbitration .lst-kix_pgxgus9zyvxe-5 > li {
+  counter-increment: lst-ctn-kix_pgxgus9zyvxe-5;
+}
+.LegalPage__arbitration .lst-kix_esrgr2ks93q7-4 > li:before {
+  content: "\0025cb  ";
+}
+.LegalPage__arbitration .lst-kix_esrgr2ks93q7-3 > li:before {
+  content: "\0025cf  ";
+}
+.LegalPage__arbitration ol.lst-kix_kogupumgjn9v-7.start {
+  counter-reset: lst-ctn-kix_kogupumgjn9v-7 0;
+}
+.LegalPage__arbitration ul.lst-kix_esrgr2ks93q7-8 {
+  list-style-type: none;
+}
+.LegalPage__arbitration ul.lst-kix_esrgr2ks93q7-7 {
+  list-style-type: none;
+}
+.LegalPage__arbitration .lst-kix_pgxgus9zyvxe-0 > li:before {
+  content: "" counter(lst-ctn-kix_pgxgus9zyvxe-0, decimal) ". ";
+}
+.LegalPage__arbitration ul.lst-kix_esrgr2ks93q7-6 {
+  list-style-type: none;
+}
+.LegalPage__arbitration .lst-kix_esrgr2ks93q7-1 > li:before {
+  content: "\0025cb  ";
+}
+.LegalPage__arbitration ul.lst-kix_esrgr2ks93q7-5 {
+  list-style-type: none;
+}
+.LegalPage__arbitration ul.lst-kix_esrgr2ks93q7-4 {
+  list-style-type: none;
+}
+.LegalPage__arbitration .lst-kix_esrgr2ks93q7-0 > li:before {
+  content: "\0025cf  ";
+}
+.LegalPage__arbitration .lst-kix_esrgr2ks93q7-2 > li:before {
+  content: "\0025a0  ";
+}
+.LegalPage__arbitration ul.lst-kix_esrgr2ks93q7-3 {
+  list-style-type: none;
+}
+.LegalPage__arbitration ul.lst-kix_esrgr2ks93q7-2 {
+  list-style-type: none;
+}
+.LegalPage__arbitration ul.lst-kix_esrgr2ks93q7-1 {
+  list-style-type: none;
+}
+.LegalPage__arbitration ul.lst-kix_esrgr2ks93q7-0 {
+  list-style-type: none;
+}
+.LegalPage__arbitration .lst-kix_kogupumgjn9v-2 > li {
+  counter-increment: lst-ctn-kix_kogupumgjn9v-2;
+}
+.LegalPage__arbitration ol.lst-kix_kogupumgjn9v-4.start {
+  counter-reset: lst-ctn-kix_kogupumgjn9v-4 0;
+}
+.LegalPage__arbitration .lst-kix_kogupumgjn9v-4 > li {
+  counter-increment: lst-ctn-kix_kogupumgjn9v-4;
+}
+.LegalPage__arbitration ol.lst-kix_pgxgus9zyvxe-6.start {
+  counter-reset: lst-ctn-kix_pgxgus9zyvxe-6 0;
+}
+.LegalPage__arbitration ol.lst-kix_pgxgus9zyvxe-2 {
+  list-style-type: none;
+}
+.LegalPage__arbitration .lst-kix_pgxgus9zyvxe-4 > li {
+  counter-increment: lst-ctn-kix_pgxgus9zyvxe-4;
+}
+.LegalPage__arbitration ol.lst-kix_pgxgus9zyvxe-3 {
+  list-style-type: none;
+}
+.LegalPage__arbitration ol.lst-kix_pgxgus9zyvxe-0 {
+  list-style-type: none;
+}
+.LegalPage__arbitration ol.lst-kix_pgxgus9zyvxe-1 {
+  list-style-type: none;
+}
+.LegalPage__arbitration .lst-kix_eb6km7g6c5lq-1 > li:before {
+  content: "\0025cb  ";
+}
+.LegalPage__arbitration ol.lst-kix_pgxgus9zyvxe-6 {
+  list-style-type: none;
+}
+.LegalPage__arbitration ol.lst-kix_pgxgus9zyvxe-7 {
+  list-style-type: none;
+}
+.LegalPage__arbitration .lst-kix_eb6km7g6c5lq-0 > li:before {
+  content: "\0025cf  ";
+}
+.LegalPage__arbitration ol.lst-kix_pgxgus9zyvxe-4 {
+  list-style-type: none;
+}
+.LegalPage__arbitration ol.lst-kix_pgxgus9zyvxe-5 {
+  list-style-type: none;
+}
+.LegalPage__arbitration ol.lst-kix_pgxgus9zyvxe-2.start {
+  counter-reset: lst-ctn-kix_pgxgus9zyvxe-2 0;
+}
+.LegalPage__arbitration ol.lst-kix_pgxgus9zyvxe-8 {
+  list-style-type: none;
+}
+.LegalPage__arbitration ol.lst-kix_kogupumgjn9v-3.start {
+  counter-reset: lst-ctn-kix_kogupumgjn9v-3 0;
+}
+.LegalPage__arbitration .lst-kix_pgxgus9zyvxe-7 > li:before {
+  content: "" counter(lst-ctn-kix_pgxgus9zyvxe-7, lower-latin) ". ";
+}
+.LegalPage__arbitration .lst-kix_pgxgus9zyvxe-5 > li:before {
+  content: "" counter(lst-ctn-kix_pgxgus9zyvxe-5, lower-roman) ". ";
+}
+.LegalPage__arbitration ol.lst-kix_kogupumgjn9v-7 {
+  list-style-type: none;
+}
+.LegalPage__arbitration ol.lst-kix_kogupumgjn9v-8 {
+  list-style-type: none;
+}
+.LegalPage__arbitration .lst-kix_pgxgus9zyvxe-6 > li:before {
+  content: "" counter(lst-ctn-kix_pgxgus9zyvxe-6, decimal) ". ";
+}
+.LegalPage__arbitration ol.lst-kix_kogupumgjn9v-5 {
+  list-style-type: none;
+}
+.LegalPage__arbitration ol.lst-kix_kogupumgjn9v-6 {
+  list-style-type: none;
+}
+.LegalPage__arbitration .lst-kix_eb6km7g6c5lq-7 > li:before {
+  content: "\0025cb  ";
+}
+.LegalPage__arbitration ol.lst-kix_pgxgus9zyvxe-7.start {
+  counter-reset: lst-ctn-kix_pgxgus9zyvxe-7 0;
+}
+.LegalPage__arbitration ol.lst-kix_kogupumgjn9v-2.start {
+  counter-reset: lst-ctn-kix_kogupumgjn9v-2 0;
+}
+.LegalPage__arbitration .lst-kix_eb6km7g6c5lq-8 > li:before {
+  content: "\0025a0  ";
+}
+.LegalPage__arbitration .lst-kix_pgxgus9zyvxe-8 > li:before {
+  content: "" counter(lst-ctn-kix_pgxgus9zyvxe-8, lower-roman) ". ";
+}
+.LegalPage__arbitration .lst-kix_eb6km7g6c5lq-3 > li:before {
+  content: "\0025cf  ";
+}
+.LegalPage__arbitration .lst-kix_kogupumgjn9v-0 > li:before {
+  content: "" counter(lst-ctn-kix_kogupumgjn9v-0, decimal) ". ";
+}
+.LegalPage__arbitration .lst-kix_eb6km7g6c5lq-2 > li:before {
+  content: "\0025a0  ";
+}
+.LegalPage__arbitration .lst-kix_eb6km7g6c5lq-6 > li:before {
+  content: "\0025cf  ";
+}
+.LegalPage__arbitration .lst-kix_kogupumgjn9v-1 > li:before {
+  content: "" counter(lst-ctn-kix_kogupumgjn9v-1, lower-latin) ". ";
+}
+.LegalPage__arbitration ol.lst-kix_kogupumgjn9v-3 {
+  list-style-type: none;
+}
+.LegalPage__arbitration .lst-kix_kogupumgjn9v-4 > li:before {
+  content: "" counter(lst-ctn-kix_kogupumgjn9v-4, lower-latin) ". ";
+}
+.LegalPage__arbitration .lst-kix_pgxgus9zyvxe-1 > li {
+  counter-increment: lst-ctn-kix_pgxgus9zyvxe-1;
+}
+.LegalPage__arbitration ol.lst-kix_kogupumgjn9v-4 {
+  list-style-type: none;
+}
+.LegalPage__arbitration ol.lst-kix_kogupumgjn9v-1 {
+  list-style-type: none;
+}
+.LegalPage__arbitration ol.lst-kix_pgxgus9zyvxe-1.start {
+  counter-reset: lst-ctn-kix_pgxgus9zyvxe-1 0;
+}
+.LegalPage__arbitration ol.lst-kix_kogupumgjn9v-2 {
+  list-style-type: none;
+}
+.LegalPage__arbitration .lst-kix_eb6km7g6c5lq-5 > li:before {
+  content: "\0025a0  ";
+}
+.LegalPage__arbitration .lst-kix_kogupumgjn9v-2 > li:before {
+  content: "" counter(lst-ctn-kix_kogupumgjn9v-2, lower-roman) ". ";
+}
+.LegalPage__arbitration ol.lst-kix_kogupumgjn9v-0 {
+  list-style-type: none;
+}
+.LegalPage__arbitration .lst-kix_eb6km7g6c5lq-4 > li:before {
+  content: "\0025cb  ";
+}
+.LegalPage__arbitration .lst-kix_kogupumgjn9v-3 > li:before {
+  content: "" counter(lst-ctn-kix_kogupumgjn9v-3, decimal) ". ";
+}
+.LegalPage__arbitration ol {
+  margin: 0;
+  padding: 0;
+}
+.LegalPage__arbitration table td,
+.LegalPage__arbitration table th {
+  padding: 0;
+}
+.LegalPage__arbitration .c1 {
+  /* background-color: #ffffff;*/
+  color: #343434;
+  font-weight: 400;
+  text-decoration: none;
+  vertical-align: baseline;
+  font-size: 10pt;
+  font-family: "Raleway";
+  font-style: normal;
+}
+.LegalPage__arbitration .c8 {
+  color: #000000;
+  font-weight: 400;
+  text-decoration: none;
+  vertical-align: baseline;
+  font-size: 10pt;
+  font-family: "Raleway";
+  font-style: normal;
+}
+.LegalPage__arbitration .c0 {
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+  line-height: 1.15;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+.LegalPage__arbitration .c2 {
+  /* background-color: #ffffff; */
+  color: #343434;
+  font-weight: 400;
+  text-decoration: underline;
+  font-size: 10pt;
+  font-family: "Raleway";
+}
+.LegalPage__arbitration .c4 {
+  /* background-color: #ffffff;*/
+  color: #1155cc;
+  font-weight: 400;
+  text-decoration: underline;
+  font-size: 10pt;
+  font-family: "Raleway";
+}
+.LegalPage__arbitration .c7 {
+  /* background-color: #ffffff;*/
+  font-size: 10pt;
+  font-family: "Raleway";
+  color: #343434;
+  font-weight: 400;
+}
+.LegalPage__arbitration .c3 {
+  /* background-color: #ffffff;*/
+  max-width: 451.4pt;
+  padding: 72pt 72pt 72pt 72pt;
+}
+.LegalPage__arbitration .c6 {
+  color: inherit;
+  text-decoration: inherit;
+}
+.LegalPage__arbitration .c5 {
+  height: 11pt;
+}
+.LegalPage__arbitration .title {
+  padding-top: 0pt;
+  color: #000000;
+  font-size: 26pt;
+  padding-bottom: 3pt;
+  font-family: "Arial";
+  line-height: 1.15;
+  page-break-after: avoid;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+.LegalPage__arbitration .subtitle {
+  padding-top: 0pt;
+  color: #666666;
+  font-size: 15pt;
+  padding-bottom: 16pt;
+  font-family: "Arial";
+  line-height: 1.15;
+  page-break-after: avoid;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+.LegalPage__arbitration li {
+  color: #000000;
+  font-size: 11pt;
+  font-family: "Arial";
+}
+.LegalPage__arbitration p {
+  margin: 0;
+  color: #000000;
+  font-size: 11pt;
+  font-family: "Arial";
+}
+.LegalPage__arbitration h1 {
+  padding-top: 20pt;
+  color: #000000;
+  font-size: 20pt;
+  padding-bottom: 6pt;
+  font-family: "Arial";
+  line-height: 1.15;
+  page-break-after: avoid;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+.LegalPage__arbitration h2 {
+  padding-top: 18pt;
+  color: #000000;
+  font-size: 16pt;
+  padding-bottom: 6pt;
+  font-family: "Arial";
+  line-height: 1.15;
+  page-break-after: avoid;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+.LegalPage__arbitration h3 {
+  padding-top: 16pt;
+  color: #434343;
+  font-size: 14pt;
+  padding-bottom: 4pt;
+  font-family: "Arial";
+  line-height: 1.15;
+  page-break-after: avoid;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+.LegalPage__arbitration h4 {
+  padding-top: 14pt;
+  color: #666666;
+  font-size: 12pt;
+  padding-bottom: 4pt;
+  font-family: "Arial";
+  line-height: 1.15;
+  page-break-after: avoid;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+.LegalPage__arbitration h5 {
+  padding-top: 12pt;
+  color: #666666;
+  font-size: 11pt;
+  padding-bottom: 4pt;
+  font-family: "Arial";
+  line-height: 1.15;
+  page-break-after: avoid;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+.LegalPage__arbitration h6 {
+  padding-top: 12pt;
+  color: #666666;
+  font-size: 11pt;
+  padding-bottom: 4pt;
+  font-family: "Arial";
+  line-height: 1.15;
+  page-break-after: avoid;
+  font-style: italic;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}

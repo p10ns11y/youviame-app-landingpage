@@ -1,0 +1,11 @@
+** Steps **
+
+  - Download the formatted google doc using `Download as html`
+  - Paste the code in http://www.cleancss.com/css-beautify/
+    -- copy the styles between <style></style> and paste the
+       styles inside your Custom `className` http://less2css.org/
+       to generate extended css wrapped by your className
+    -- Reset the background-color if needed /*background-color: #ffffff;*/
+
+    -- copy all the html including <body></body> and change body to
+       div tag

@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 120px;
+}
+
+.App-header {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  /*background-color: #ebe9f0;*/
+  height: 200px;
+  padding: 20px;
+  color: white;
+}
+
+.App-mailchimp-list {
+  color: #4dbcbc;
+}
+
+/* @keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+} */
