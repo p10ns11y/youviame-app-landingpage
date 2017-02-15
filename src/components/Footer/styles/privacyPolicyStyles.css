@@ -282,8 +282,9 @@
 }
 .LegalPage__privacy-policy .c5 {
   /*background-color: #ffffff;*/
-  max-width: 451.4pt;
-  padding: 72pt 72pt 72pt 72pt;
+  /*max-width: 451.4pt;*/
+  max-width: 95vw;
+  padding: 10px;
 }
 .LegalPage__privacy-policy .c8 {
   color: inherit;

@@ -15,6 +15,15 @@ export default class MailChimpForm  extends Component {
   render() {
     return (
       <div className="App-request-form" id="mc_embed_signup">
+        <div style={{width: '100%'}}>
+          Youviame låter dig ta makten över dina vänners dejtingliv. <br />
+          Matcha ihop dina singelvänner med andra singel och bestäm vad de ska göra<br />
+          på deras första dejt.   <br /><br />
+          <span style={{color: '#b1579c'}}>Allt inom de närmaste 7 dagarna. <br /><br /></span>
+          <span>
+            Vilka matchar du först? <br /><br />
+          </span>
+        </div>
         <form action="//youviame.us15.list-manage.com/subscribe/post?u=d3d56eaf316a29fc5b59496dd&amp;id=bdd0fadf50" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" className="validate" target="_blank" noValidate>
           <div id="mc_embed_signup_scroll">
             <div className="mc-field-group">

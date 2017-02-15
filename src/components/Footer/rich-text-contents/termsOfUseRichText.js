@@ -8,8 +8,7 @@ export function termsOfUseHtml() {
         </div>
         <p class="c4"><span class="c2">TERMS OF USE</span>
         </p>
-        <p class="c3"><span class="c0">Last revised on February 3:th, 2017</span>
-        </p>
+        <h4><span style="font-family:Raleway;">Last revised on February 3rd, 2017</span></h4>
         <p class="c3"><span class="c0">Welcome to Youviame operated by Youviame, Inc. (the &ldquo;Company&rdquo; or &ldquo;Youviame&rdquo;).</span>
         </p>
         <p class="c3"><span class="c6">By creating a Youviame account or by using the Youviame app (&ldquo;Youviame app&rdquo;), whether through a mobile device, mobile application or computer (collectively, the &ldquo;Service&rdquo;) you agree to be bound by these Terms of Use and our </span><span class="c8"><a class="c7" href="/privacy-policy">Privacy Policy</a></span><span class="c0">, which is incorporated by reference into this Agreement and available in the Service (this &ldquo;Agreement&rdquo;). If you do not accept and agree to be bound by all of the terms of this Agreement, please do not use the Service.<br><br></span>

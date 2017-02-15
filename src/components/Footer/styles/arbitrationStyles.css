@@ -384,8 +384,9 @@
 }
 .LegalPage__arbitration .c3 {
   /* background-color: #ffffff;*/
-  max-width: 451.4pt;
-  padding: 72pt 72pt 72pt 72pt;
+  /*max-width: 451.4pt;*/
+  max-width: 90vw;
+  padding: 10px;
 }
 .LegalPage__arbitration .c6 {
   color: inherit;

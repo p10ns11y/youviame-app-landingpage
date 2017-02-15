@@ -2,8 +2,7 @@ import React, { Component } from 'react';
 
 import logo from './yvm2.png';
 
-import Playstores from './components/Playstores';
-// import SubscribeLink from './components/SubscribeLink';
+// import Playstores from './components/Playstores';
 import RequestForm from './components/RequestForm';
 import Footer from './components/Footer';
 
@@ -21,7 +20,6 @@ class App extends Component {
       <div className="App">
         <SiteLogo />
         <main className="App-main-content">
-          <Playstores />
           <RequestForm />
         </main>
         <Footer />

@@ -5,10 +5,11 @@ import styled, { css } from 'styled-components';
 const NavLink = styled.ul`
   display: flex;
   list-style: none;
-  margin-top: -50px;
   padding-left: 0;
   width: 100%;
   justify-content: center;
+  /* default flex-start alignm-item gives bottom margin */
+  height: 6vh;
 `;
 
 const InlineList = styled.li`
@@ -33,7 +34,7 @@ const StyledMailTo = styled.a`${linkStyles}`;
 export default () => {
   const footerStyles = {
     display: 'flex',
-    height: '120px',
+    height: '30vh',
     alignItems: 'flex-end'
   }
 
